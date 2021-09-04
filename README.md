@@ -17,19 +17,18 @@ This is my first ever screencast, so please have patience with me! Also, I had t
 You can find my demo video on. 
 
 Summary:
-1. Thinking in User Segments
+1. KPI's
 	* Total Users
 	* Token Holders
-	* Inactive Users
-	* New Users Growth
-2. Who are the Users?
-3. Exchange KPIs
-4. Dynamically Updating Charts: Last 30 / 7 Days
-5. Actionable Data: Claimed Social Accounts
-6. Recently Added Social Accounts incl. Dune Search Box
-7. What's Next?
-	* Your Input
-	* Future Contract Work?
+	* Trade Volume
+	* Trading Pairs
+	* Outstanding debt per day metrics
+	* Token Price
+	* Borrows per day by token
+	* Liquidation Success Rate
+	* Interest accrued
+	* 
+2.Limitation to the data. No Iron Bank, BSC, Fantom data for creamfinance. Polygon data 
 
 My [Dune Analytics page](https:)
 
