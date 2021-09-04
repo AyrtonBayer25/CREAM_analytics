@@ -31,7 +31,7 @@ Summary:
 	* Your Input
 	* Future Contract Work?
 
-My [Dune Analytics page](https://duneanalytics.com/masquot)
+My [Dune Analytics page](https:)
 
 ## What's Next?
 * If I can make tweaks to the dashboards that will enhance your use experience, please let me know and I will implement them. :)
