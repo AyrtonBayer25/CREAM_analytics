@@ -28,20 +28,21 @@ Summary:
 	* Liquidation Success Rate
 	* Interest accrued
 	* 
-2.Limitation to the data. No Iron Bank, BSC, Fantom data for creamfinance on dune analytics. Polygon network is available on Dune Analytics but no data tables defined as source of info.
+2.Limitation to the data. No Iron Bank, BSC, Fantom data for creamfinance on dune analytics. Currently working with Dune Analytics team to get CREAM Polygon network data available on Dune Analytics.
 
 My [Dune Analytics page](https:)
 
 ## What's Next?
-* If the data tables for creamfinance are found on dune analytics on the polygon.network the dashboard will be replicated from the ones used on ETH v1 dashbaord.
-* 
+* Data tables for creamfinance to be available on dune analytics using the polygon.network the dashboard will be replicated from the ones used on ETH v1 dashbaord.
+
 ## Who Am I
 
 
-You can show your appreciation for my work by:
-- starring my dashboards on Dune Analytic
-- giving me constructive feedback on dasboard design and implementation
-- My [Twitter account](https://twitter.com/Airbayer1) 
+Thoughts:
+- Give me constructive feedback on dasboard design and implementation
+- My [Twitter account](https://twitter.com/Airbayer1)
+ 
+Thank you for your time and insights on my project!
 
 :pray:
 
