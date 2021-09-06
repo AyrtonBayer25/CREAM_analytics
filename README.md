@@ -1,4 +1,4 @@
-# CREAM_analytics
+# Live CREAM DUNE analytics
 
 ## Objective
 A clean UX containing relevant data and graphics from all C.R.E.A.M. money markets (eth v1, Iron Bank, BSC, Fantom, Polygon). Rather than provide a defined list of metrics/KPIs, Hackers should get creative here and build for what they feel is important for users of C.R.E.A.M. Finance. Please include a GitHub and demo of the product in the submission.
@@ -9,8 +9,6 @@ A clean UX containing relevant data and graphics from all C.R.E.A.M. money marke
 ## My Submissions
 1. 
 
-## My Hackathon Experience
-This is my first ever hackathon i have participated in. I have created dashboards and visualizations thorughout my career in data science however these are my first dashboards implemented off smart contracts.
 
 It was a truly great experience that encourages me to further pursue my data science background in an applicabale manner using dune analytics and smart contracts. 
 
@@ -40,7 +38,10 @@ My [Dune Analytics page](https:)
 * Data tables for creamfinance to be available on dune analytics using the polygon.network the dashboard will be replicated from the ones used on ETH v1 dashbaord.
 
 ## Who Am I
+I am a data scientist with numerous experience in the finance industry to deliver meaningful insights in promoting 
 
+## Hackathon Experience
+I have created dashboards and visualizations thorughout my career in data science however these dashboards are implemented off smart contracts using dune analytics which translated very well to this hackathon.
 
 Thoughts:
 - Give me constructive feedback on dasboard design and implementation
