@@ -4,7 +4,7 @@
 A clean UX containing relevant data and graphics from all C.R.E.A.M. money markets (eth v1, Iron Bank, BSC, Fantom, Polygon). Rather than provide a defined list of metrics/KPIs, Hackers should get creative here and build for what they feel is important for users of C.R.E.A.M. Finance. Please include a GitHub and demo of the product in the submission.
 
 ## Work Completed
-- [x] I wrote sql queries to better understand indicators of how CREAM finance is performing in the crypto currency industry using Dune Analytics. This dashboard is pulling data from ETH v1.
+- [x] I wrote sql queries to better understand indicators of how CREAM finance is performing in the crypto currency industry using Dune Analytics. This dashboard is pulling data from ETH v1. These queries are build to showcase the outstanding debt by token by day and borrows by token by day as well. We can then build visuals such as area charts, bar graphs, pie chart, sum table counter to display a sum of a particular metric such as total trade volume all time and price of token.
 
 ## My Submissions
 1. 
