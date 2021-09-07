@@ -1,4 +1,4 @@
-# Live CREAM DUNE analytics
+# [Live CREAM DUNE analytics](https://dune.xyz/airbayer/CCCCCC)
 
 ## Objective
 A clean UX containing relevant data and graphics from all C.R.E.A.M. money markets (eth v1, Iron Bank, BSC, Fantom, Polygon). Rather than provide a defined list of metrics/KPIs, Hackers should get creative here and build for what they feel is important for users of C.R.E.A.M. Finance. Please include a GitHub and demo of the product in the submission.
@@ -31,8 +31,6 @@ Summary:
 	* Interest accrued
 	* 
 2.Limitation to the data. No Iron Bank, BSC, Fantom data for creamfinance on dune analytics. Currently working with Dune Analytics team to get CREAM Polygon network data available on Dune Analytics.
-
-My [Dune Analytics page](https:)
 
 ## What's Next?
 * Data tables for creamfinance to be available on dune analytics using the polygon.network the dashboard will be replicated from the ones used on ETH v1 dashbaord.
