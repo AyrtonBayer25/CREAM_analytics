@@ -8,18 +8,19 @@ A clean UX containing relevant data and graphics from all C.R.E.A.M. money marke
 
 ## Demo Video
 
-You can find my demo video on. 
+You can find my demo video on here.
 
 ## Summary:
  1. KPI's
-	* Total Users
-	* Token Holders
+	* Total Users Over Time
+	* Current Token Holders
 	* Trade Volume
 	* Trading Pairs
 	* Outstanding debt per day metrics
-	* Token Price
+	* Current Token Price
 	* Liquidation Success Rate
-	* Interest accrued
+	* Daily Interest Accrued
+	* 
 2. Limitation to the data. No Iron Bank, BSC, Fantom data for creamfinance on dune analytics. Currently working with Dune Analytics team to get CREAM Polygon network data available on Dune Analytics.
 
 ## What's Next?
@@ -34,6 +35,7 @@ I have created dashboards and visualizations thorughout my career in data scienc
 Thoughts:
 - Give me constructive feedback on dasboard design and implementation
 - My [Twitter account](https://twitter.com/Airbayer1)
+- My [Dune Analytics Page](https://dune.xyz/airbayer)
  
 Thank you for your time and insights on my project!
 
