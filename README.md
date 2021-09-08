@@ -8,7 +8,7 @@ A clean UX containing relevant data and graphics from all C.R.E.A.M. money marke
 
 ## Demo Video
 
-You can find my demo video on here.
+You can find my demo video can be found here (https://youtu.be/HUl2DBNCfSo).
 
 ## Summary:
  1. KPI's
@@ -20,7 +20,6 @@ You can find my demo video on here.
 	* Current Token Price
 	* Liquidation Success Rate
 	* Daily Interest Accrued
-	* 
 2. Limitation to the data. No Iron Bank, BSC, Fantom data for creamfinance on dune analytics. Currently working with Dune Analytics team to get CREAM Polygon network data available on Dune Analytics.
 
 ## What's Next?
